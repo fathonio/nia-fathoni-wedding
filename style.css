@@ -317,11 +317,11 @@ footer {
 footer h2 {
     font-family: 'Sacramento';
     font-size: 2.5rem;
-    padding: 2rem;
+    padding: 1rem;
     font-weight: bold;
 }
 footer p {
-    padding-top: 3rem;
+    padding-top: 2.5rem;
 }
 
 footer a {
