@@ -314,6 +314,16 @@ footer {
     color: white;
 }
 
+footer h2 {
+    font-family: 'Sacramento';
+    font-size: 2.4rem;
+    padding: 2rem;
+}
+footer {
+    font-weight: bold;
+    padding-top: 1rem;
+}
+
 footer a {
     color: var(--bg);
     font-weight: bold;
