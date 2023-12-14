@@ -62,6 +62,9 @@ body {
     background-color: rgba(255, 255, 255, 0.3) !important;
     backdrop-filter: blur(4px);
 }
+/* .mynavbar a {
+    color: var(--bg);
+} */
 
 .mynavbar .offcanvas {
     height: 100vh;
@@ -286,7 +289,7 @@ body {
 }
 
 .rsvp p {
-    color: var(--bg);
+    color: var(--bg) !important;
 }
 
 .rsvp form label {
@@ -417,6 +420,10 @@ footer a {
     .simply-countdown>.simply-section {
         padding: 40px;
         margin: 2px;
+    }
+    .mynavbar .nav-link {
+        font-size: 1rem;
+        text-align: center;
     }
 
     .timeline li .timeline-image {
